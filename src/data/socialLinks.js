@@ -15,7 +15,7 @@ export const socialLinks = [
 		id: 4,
 		name: 'LinkedIn',
 		icon: 'linkedin',
-		url: 'https://www.linkedin.com/in/realstoman',
+		url: 'https://www.linkedin.com/in/miguel-angel-ramos-lopez/',
 	},
 	{
 		id: 5,
