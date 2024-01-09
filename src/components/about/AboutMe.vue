@@ -5,13 +5,12 @@ export default {
 			bios: [
 				{
 					id: 1,
-					bio:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+					bio:'¡Hola! Soy Miguel Ramos, un ingeniero de sistemas con una pasión por el desarrollo web. Como desarrollador junior, combino mi sólido trasfondo técnico con mi energía juvenil y compromiso. Me encanta desafiarme a mí mismo tanto en el mundo del código como en el gimnasio, donde canalizo mi disciplina y determinación. Mi creatividad y habilidad para generar buenas ideas son innegables. Me esfuerzo por contribuir con soluciones innovadoras y eficientes a los desafíos que se presentan en el desarrollo web. Mi enfoque es siempre aprender y crecer, aprovechando cada oportunidad para mejorar mis habilidades y contribuir al éxito del equipo.',
 				},
 				{
 					id: 2,
 					bio:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'¡Estoy emocionado por la posibilidad de ser parte de proyectos apasionantes y seguir evolucionando como desarrollador web junior',
 				},
 			],
 		};

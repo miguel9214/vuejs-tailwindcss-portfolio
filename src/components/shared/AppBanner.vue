@@ -31,12 +31,12 @@ export default {
 			<h1
 				class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light uppercase"
 			>
-				Hi, Iam Stoman
+				Hola, soy Miguel Ramos
 			</h1>
 			<p
 				class="font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400"
 			>
-				A Full-Stack Developer & Design Enthusiast
+			Un desarrollador full-stack y entusiasta del diseño
 			</p>
 			<div class="flex justify-center sm:block">
 				<a
@@ -51,7 +51,7 @@ export default {
 					></i>
 					<span
 						class="text-sm sm:text-lg font-general-medium duration-100"
-						>Download CV</span
+						>Descargar CV</span
 					></a
 				>
 			</div>
