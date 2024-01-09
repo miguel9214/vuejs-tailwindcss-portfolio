@@ -104,34 +104,29 @@ export default {
 				socialSharings: [
 					{
 						id: 1,
-						name: 'Twitter',
-						icon: 'twitter',
-						url: 'https://twitter.com/realstoman',
+						name: 'GitHub',
+						icon: 'github',
+						url: 'https://github.com/miguel9214',
 					},
 					{
 						id: 2,
-						name: 'Instagram',
-						icon: 'instagram',
-						url: 'https://instagram.com/realstoman',
+						name: 'Twitter',
+						icon: 'twitter',
+						url: 'https://twitter.com/ramosMiguel9214',
 					},
 					{
 						id: 3,
-						name: 'Facebook',
-						icon: 'facebook',
-						url: 'https://facebook.com/',
+						name: 'LinkedIn',
+						icon: 'linkedin',
+						url: 'https://www.linkedin.com/in/miguel-angel-ramos-lopez/',
 					},
 					{
 						id: 4,
-						name: 'LinkedIn',
-						icon: 'linkedin',
-						url: 'https://linkedin.com/',
-					},
-					{
-						id: 5,
-						name: 'Youtube',
+						name: 'YouTube',
 						icon: 'youtube',
-						url: 'https://www.youtube.com/c/StomanStudio',
+						url: 'https://www.youtube.com/@miguelangelramoslopez5605',
 					},
+
 				],
 			},
 			relatedProject: {
